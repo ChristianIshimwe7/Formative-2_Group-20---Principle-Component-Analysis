@@ -1,4 +1,4 @@
-iAFRICAN LEADERSHIP UNIVERSITY
+AFRICAN LEADERSHIP UNIVERSITY
 BSE
 MATHEMATICS FOR  MACHINE LEARNING
 
@@ -34,6 +34,11 @@ Part 2:
 For the Following Matrix Find the eigenvalues and Eigenvectors
 
 Determine the importance of the eigenvalues in % form
+
+    [4, 8, -1, -2],
+    [-3, -9, -3, -4],
+    [0, 10, 5, -10],
+    [-1, -13, -14, -13]
 
 
 Peer Member 1: λ1
