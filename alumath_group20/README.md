@@ -1,4 +1,4 @@
-alumath_group20
+alumath_group20 :
 A Python library for matrix operations, supporting multiplication of matrices with different dimensions, developed by Group 20: Christian, Carine, Eva, and Thierry.
 
 Installation
