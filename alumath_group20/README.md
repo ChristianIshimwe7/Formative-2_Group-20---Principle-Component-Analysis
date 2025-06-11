@@ -1,12 +1,17 @@
 alumath_group20
 A Python library for matrix operations, supporting multiplication of matrices with different dimensions, developed by Group 20: Christian, Carine, Eva, and Thierry.
+
 Installation
+
 Install via pip:
 pip install alumath_group20
 
 Usage
-The alumath_group20 library, created by Christian, Carine, Eva, and Thierry, provides a Matrix class for matrix multiplication with compatible dimensions. Below are examples:
+The alumath_group20 library, created by Christian, Carine, Eva, and Thierry, provides a Matrix class for matrix multiplication with compatible dimensions. 
+
+Below are examples:
 Example 1: Multiplying Two 2x2 Matrices
+
 from alumath_group20 import Matrix
 
 # Define two 2x2 matrices
@@ -53,9 +58,9 @@ except ValueError as e:
     print(e)
 
 Output (member name varies):
-Matrix dimensions incompatible for multiplication, says Eva
+Matrix dimensions incompatible for multiplication, says Christian, Carine, Eva, or Thierry(name is picked randomly)
 
-Notes
+Notes :
 
 Supports multiplication for compatible dimensions (m×n * n×p = m×p).
 For incompatible dimensions, raises ValueError with a message including a randomly selected member (Christian, Carine, Eva, or Thierry).
@@ -80,11 +85,11 @@ python -m unittest tests/test_matrix.py
 
 License
 MIT License
-Authors
+
+
+Authors :
 
 Christian
 Carine
 Eva
 Thierry
-
-
