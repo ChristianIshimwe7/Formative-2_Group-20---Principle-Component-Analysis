@@ -1,6 +1,8 @@
 alumath_group20 :
 A Python library for matrix operations, supporting multiplication of matrices with different dimensions, developed by Group 20: Christian, Carine, Eva, and Thierry.
 
+View it at: https://pypi.org/project/alumath-group20/0.1.0/
+
 Installation
 
 Install via pip:
