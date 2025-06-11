@@ -13,6 +13,7 @@ This assignment focuses on the application of advanced linear algebra concepts, 
 Lack of Meaningful contribution to the assignment will result in an immediate 0
 
 Instructions:
+
 This is an group assignment.
 The provided Google Colab notebook template must be completed. The notebook includes cells where instructions are provided, marked with a "TO DO" comment. Your task is to fill in the missing code or answers where indicated.
 The goal of PCA: The Principal Component Analysis algorithm aims to reduce the number of features in a dataset by transforming it to a lower-dimensional space, while retaining as much of the information (variance) as possible. To achieve this, you will need to calculate covariance, perform eigendecomposition, and project the data onto the principal components.
@@ -21,7 +22,9 @@ Complete the tasks in the notebook to implement PCA from scratch.
 For Task 1, implement PCA by computing covariance, eigenvalues, and eigenvectors, and projecting the data onto the principal components.
 For Task 2, dynamically select the number of principal components based on explained variance.
 For Task 3, optimize your implementation for performance and handle large datasets effectively.
+
 Data:
+
 Based on alignment within the group find impactful Africanized data that has more than 10 columns. You shall not use generic data such as house price prediction data or Wine quality prediction data
 Make sure the output for each code cell is visible: After running the cells, ensure that the output of your code (plots, data, results) is displayed in the notebook.
 Submit a link to your the github Repo
